@@ -7,8 +7,11 @@ Henry Radar : HenryRadar : 300228908
 Benjamin Sayyeau : UO-BS : 300237367
 Gamelle Kamga : gamellekamga
 
-Product:
+Company:
+GroupAlign
 
+Product:
+GroupAlign
 
 Description: 
 Service that allows you to coordinate your university schedules and activities between students.
