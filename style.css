@@ -1,12 +1,22 @@
 body {}
 
-#headernav li{
+#headernav {
+    list-style-type: none;
     float: right;
+}
+
+#headernav li{
+    float: left;
     border-right:1px solid #bbb;
 }
 #headernav li a{
     color: white;
+    background-color: rgb(58, 57, 57);
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
+}
+
+#headernav li a:hover {
+    background-color: rgb(17, 17, 17);
 }
