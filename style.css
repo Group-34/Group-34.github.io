@@ -1,8 +1,12 @@
 body {}
 
 #headernav li{
-
-    float: left;
+    float: right;
     border-right:1px solid #bbb;
-
+}
+#headernav li a{
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
 }
