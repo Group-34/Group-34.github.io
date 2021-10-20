@@ -2,6 +2,10 @@ body {
   background-color: beige;
 }
 
+main{
+  margin-top:100px;
+}
+
 #headernav {
     background-color: rgb(58, 57, 57);
     position:fixed;
@@ -15,7 +19,6 @@ body {
   display: inline;
 }
 
-
 #headernav h1{
     width: 150px;
     color: white;
@@ -26,13 +29,11 @@ body {
     list-style-type: none;
     float: right;
     padding-right: 20px;
-    
 }
 
 #headernav li {
   float: left;
   border-right: 1px solid #bbb;
-  
 }
 #headernav li a {
   color: white;
@@ -40,7 +41,6 @@ body {
   text-align: center;
   padding: 10px 20px;
   text-decoration: none;
-
 }
 
 #headernav li a:hover {
