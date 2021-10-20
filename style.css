@@ -9,21 +9,30 @@ body {
     left:0;
     padding:10px;
     width: 100%;
-    
 }
+
+#headernav nav{
+  display: inline;
+}
+
 
 #headernav h1{
     width: 150px;
+    color: white;
+    display: inline;
 }
 
 #headernav ul{
     list-style-type: none;
     float: right;
+    padding-right: 20px;
+    
 }
 
 #headernav li {
   float: left;
   border-right: 1px solid #bbb;
+  
 }
 #headernav li a {
   color: white;
@@ -31,6 +40,7 @@ body {
   text-align: center;
   padding: 10px 20px;
   text-decoration: none;
+
 }
 
 #headernav li a:hover {
