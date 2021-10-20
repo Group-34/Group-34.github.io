@@ -6,6 +6,8 @@ body {
     background-color: rgb(58, 57, 57);
     position:fixed;
     top:0;
+    left:0;
+    padding:10px;
     width: 100%;
     
 }
