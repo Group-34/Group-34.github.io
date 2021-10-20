@@ -3,8 +3,20 @@ body {
 }
 
 #headernav {
-  list-style-type: none;
-  float: right;
+    background-color: rgb(58, 57, 57);
+    position:fixed;
+    top:0;
+    width: 100%;
+    
+}
+
+#headernav h1{
+    width: 150px;
+}
+
+#headernav ul{
+    list-style-type: none;
+    float: right;
 }
 
 #headernav li {
