@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: beige;
+  background-color: #eae7dc;
 }
 
 main {
@@ -15,10 +15,10 @@ main {
 
 #banner {
   text-align: center;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   margin-bottom: 30px;
-  background-color: aquamarine;
+  background-color: #d8c3a5;
 }
 
 #contactinputs {
@@ -41,7 +41,7 @@ main {
 
 #inputsubmit {
   height: 30px;
-  background-color: aquamarine;
+  background-color: #d8c3a5;
 }
 #centerpiece {
   text-align: center;
