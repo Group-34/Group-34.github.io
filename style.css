@@ -9,8 +9,8 @@ body {
   background-color: beige;
 }
 
-main{
-  margin-top:75px;
+main {
+  margin-top: 75px;
 }
 
 #banner {
@@ -19,7 +19,6 @@ main{
   padding-bottom: 100px;
   margin-bottom: 30px;
   background-color: aquamarine;
-
 }
 
 #contactinputs {
@@ -30,51 +29,50 @@ main{
   width: 100%;
 }
 
-#contactinputs input{
+#contactinputs input {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 90%;
 }
 
-#messbox{
+#messbox {
   height: 100px;
 }
 
-#inputsubmit{
+#inputsubmit {
   height: 30px;
   background-color: aquamarine;
 }
-#centerpiece{
+#centerpiece {
   text-align: center;
 }
 
 /* NAVIGATION BAR */
 
 #headernav {
-    background-color: rgb(58, 57, 57);
-    position:fixed;
-    top:0;
-    left:0;
-    padding:20px;
-    width: 100%;
+  background-color: rgb(58, 57, 57);
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  width: 100%;
 }
 
-#headernav nav{
+#headernav nav {
   display: inline;
 }
 
-#headernav h1{
-    width: 170px;
-    color: white;
-    display: inline;
+#headernav h1 {
+  width: 170px;
+  color: white;
+  display: inline;
 }
 
-#headernav ul{
-    
-    list-style-type: none;
-    float: right;
-    padding-right: 50px;
-    padding-top: 12px;
+#headernav ul {
+  list-style-type: none;
+  float: right;
+  padding-right: 50px;
+  padding-top: 12px;
 }
 
 #headernav li {
@@ -101,8 +99,8 @@ footer {
   color: white;
   padding: 30px;
   position: relative;
-  left:0;
-  bottom:0;
+  left: 0;
+  bottom: 0;
 }
 footer ul {
   list-style-type: none;
