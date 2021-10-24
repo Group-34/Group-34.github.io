@@ -21,13 +21,17 @@ main {
   padding-top: 50px;
   padding-bottom: 50px;
   margin-bottom: 20px;
-  background-color: #d8c3a5
-  
 }
-#banner {
-  background-image: url("Images/gestion-du-temps-et-des-priorités-au-travail.jpeg")no-repeat;
-  background-size: 100%;
+#banner img {
+  position: absolute;
+  left: 0;
+  top:0;
+  width:100%;
+  height: auto;
+  opacity: 0.6;
+
 }
+
 /* CONTACT US */
 
 #contactinputs {
