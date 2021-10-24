@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #eae7dc;
+  background-color: #e3eadc;
 }
 
 main {
@@ -49,7 +49,7 @@ main {
   background-color: #d8c3a5;
 }
 #inputsubmit:hover {
-  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 8px 25px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.25),0 8px 25px 0 rgba(0,0,0,0.);
   transition-duration: 0.5s
 }
 #centerpiece {
@@ -88,6 +88,7 @@ main {
   overflow-y: hidden;
   float: left;
   border-right: 1px solid #bbb;
+  padding:5px 0px 5px 0px;
 }
 #headernav li a {
   color: white;
