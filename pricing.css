@@ -50,3 +50,20 @@
 #plan-details ul {
   margin: 0 0 0 10px;
 }
+
+#questions {
+  text-align: center;
+}
+
+#questions h3 {
+  font-size: 25px;
+}
+
+#questions a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+#questions a:hover {
+  color: rgb(161, 17, 17);
+}
