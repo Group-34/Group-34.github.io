@@ -1,6 +1,6 @@
 
-document.getElementById("inputsubmit").addEventListener("click", thankYou);
-
-function thankYou() {
-    document.getElementById("empty").innerHTML = "Succesfully Submitted. Thank you!";
+document.getElementById("namebox").onchange = function() {myFunction()};
+function myFunction() {
+    var x = document.getElementById("namebox");
+    x.value = x.value.toUpperCase();
 }
