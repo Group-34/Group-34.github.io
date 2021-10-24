@@ -1,9 +1,14 @@
 #plans section {
-  margin: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 15px;
   border-radius: 5px;
   box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.3);
+  width: 90%;
   background-color: #8e8d8a;
+  overflow: hidden;
 }
 
 #plans section h2 {
@@ -18,5 +23,5 @@ button {
   border-color: black;
   font-size: 20px;
   background-color: darkgrey;
-  color: #101010;
+  color: black;
 }
