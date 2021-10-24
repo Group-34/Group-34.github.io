@@ -16,7 +16,7 @@ As mentioned before we need calm and organized colors like:
 -----------------------------
 Fonts:
 
-
+We will be using Trebuchet MS with easily readable backup fonts
 ------------------------------
 links:
 
