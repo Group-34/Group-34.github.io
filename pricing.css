@@ -9,6 +9,7 @@
   width: 90%;
   background-color: #8e8d8a;
   overflow: hidden;
+  text-align: center;
 }
 
 #plans section h2 {
@@ -28,4 +29,24 @@
 
 #sign-up:hover {
   background-color: rgb(110, 110, 110);
+  cursor: pointer;
+}
+
+#plan-details {
+  margin: 10px auto 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: none;
+  border-width: 1px;
+  border-color: black;
+  background-color: #6d6c69;
+  width: fit-content;
+}
+
+#plan-details summary {
+  cursor: pointer;
+}
+
+#plan-details ul {
+  margin: 0 0 0 10px;
 }
