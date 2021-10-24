@@ -1,1 +1,6 @@
-var a = 1;
+
+document.getElementById("inputsubmit").addEventListener("click", thankYou);
+
+function thankYou() {
+    document.getElementById("empty").innerHTML = "Succesfully Submitted. Thank you!";
+}
