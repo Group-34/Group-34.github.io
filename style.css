@@ -4,20 +4,18 @@
   padding: 0;
   overflow-x: hidden;
 }
-
 body {
   background-color: #eae7dc;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 main {
   margin-top: 75px;
 }
 #content {
   margin-left: 45px;
   margin-right: 45px;
+  margin-bottom: 10px;
 }
-
 #banner {
   text-align: center;
   padding-top: 40px;
@@ -25,6 +23,8 @@ main {
   margin-bottom: 30px;
   background-color: #d8c3a5;
 }
+
+/* CONTACT US */
 
 #contactinputs {
   margin: auto;
@@ -39,11 +39,9 @@ main {
   margin-bottom: 20px;
   width: 100%;
 }
-
 #messbox {
   height: 100px;
 }
-
 #contactinputs #inputsubmit {
   margin-left: auto;
   margin-right: auto;
@@ -72,24 +70,20 @@ main {
   padding: 20px;
   width: 100%;
 }
-
 #headernav nav {
   display: inline;
 }
-
 #headernav h1 {
   width: 170px;
   color: white;
   display: inline;
 }
-
 #headernav ul {
   list-style-type: none;
   float: right;
   padding-right: 50px;
   padding-top: 12px;
 }
-
 #headernav li {
   overflow-y: hidden;
   float: left;
@@ -103,7 +97,6 @@ main {
   padding: 10px 20px;
   text-decoration: none;
 }
-
 #headernav li a:hover {
   background-color: rgb(17, 17, 17);
 }
@@ -139,7 +132,9 @@ footer p {
 footer li a:hover {
   color: rgb(128, 151, 255);
 }
+
 /* About us Page */
+
 #pfp{
   width: 100%;
 }
