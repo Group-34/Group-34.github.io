@@ -12,6 +12,10 @@ body {
 main {
   margin-top: 75px;
 }
+#content {
+  margin-left: 45px;
+  margin-right: 45px;
+}
 
 #banner {
   text-align: center;
