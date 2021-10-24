@@ -4,15 +4,18 @@
   padding: 0;
   overflow-x: hidden;
 }
-
 body {
   background-color: #eae7dc;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 main {
   margin-top: 75px;
 }
-
+#content {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-bottom: 10px;
+}
 #banner {
   text-align: center;
   padding-top: 40px;
@@ -21,30 +24,40 @@ main {
   background-color: #d8c3a5;
 }
 
+/* CONTACT US */
+
 #contactinputs {
+  margin: auto;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 5%;
   padding-right: 5%;
+  width: 60%;
+}
+#contactinputs input { 
+  margin-top: 10px; 
+  margin-bottom: 20px;
   width: 100%;
 }
-
-#contactinputs input {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width: 90%;
-}
-
 #messbox {
   height: 100px;
 }
-
-#inputsubmit {
+#contactinputs #inputsubmit {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  display: block;
+  width: 50%;
   height: 30px;
   background-color: #d8c3a5;
 }
+#inputsubmit:hover {
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.25),0 8px 25px 0 rgba(0,0,0,0.);
+  transition-duration: 0.5s
+}
 #centerpiece {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 /* NAVIGATION BAR */
@@ -57,28 +70,25 @@ main {
   padding: 20px;
   width: 100%;
 }
-
 #headernav nav {
   display: inline;
 }
-
 #headernav h1 {
   width: 170px;
   color: white;
   display: inline;
 }
-
 #headernav ul {
   list-style-type: none;
   float: right;
   padding-right: 50px;
   padding-top: 12px;
 }
-
 #headernav li {
   overflow-y: hidden;
   float: left;
   border-right: 1px solid #bbb;
+  padding:5px 0px 5px 0px;
 }
 #headernav li a {
   color: white;
@@ -87,7 +97,6 @@ main {
   padding: 10px 20px;
   text-decoration: none;
 }
-
 #headernav li a:hover {
   background-color: rgb(17, 17, 17);
 }
@@ -122,4 +131,22 @@ footer p {
 }
 footer li a:hover {
   color: rgb(128, 151, 255);
+}
+
+/* About us Page */
+
+#pfp{
+  width: 100%;
+}
+#pfp li{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 50px;
+    float: right;
+    width: 15%;
+    height: 15%;
+    overflow-y: hidden;
+}
+#pfp li img{
+  width: 100%;
 }
