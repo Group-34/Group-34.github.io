@@ -38,9 +38,15 @@ main {
   margin-top: 10px; 
   margin-bottom: 20px;
   width: 100%;
+  padding: 5px;
 }
 #messbox {
   height: 100px;
+  margin-top: 10px; 
+  margin-bottom: 20px;
+  width: 100%;
+  resize: none;
+  padding: 10px;
 }
 #contactinputs #inputsubmit {
   margin-left: auto;
