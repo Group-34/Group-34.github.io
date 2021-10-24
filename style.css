@@ -137,3 +137,19 @@ footer p {
 footer li a:hover {
   color: rgb(128, 151, 255);
 }
+/* About us Page */
+#pfp{
+  width: 100%;
+}
+#pfp li{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 50px;
+    float: right;
+    width: 15%;
+    height: 15%;
+    overflow-y: hidden;
+}
+#pfp li img{
+  width: 100%;
+}
