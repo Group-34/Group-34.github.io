@@ -51,6 +51,21 @@
   margin: 0 0 0 10px;
 }
 
+@keyframes open {
+  0% {
+    opacity: 0;
+    margin-top: -10px;
+  }
+  100% {
+    opacity: 100%;
+    margin-top: 0;
+  }
+}
+
+#plan-details[open] summary ~ * {
+  animation: open 0.3s ease-in-out;
+}
+
 #questions {
   text-align: center;
 }
