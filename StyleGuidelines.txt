@@ -1,0 +1,30 @@
+Style Guideline for GroupAlign
+
+------------------------------
+
+As GroupAlign is all about organization and neatness, there shoudnt be flashing prompts
+and confusing graphics, but simple and clean visuals.
+-------------------------------
+For colors:
+
+As mentioned before we need calm and organized colors like:
+
+- #d8c3a5
+- #eae7dc
+- black
+- white
+-----------------------------
+Fonts:
+
+
+------------------------------
+links:
+
+Links will not have underlines and will change colors when hovered over (hover color is
+different depending on its location)
+------------------------------
+buttons:
+
+Buttons will have simple shading effects when hovered (slight 3d effect) and will
+be the same colours as before
+------------------------------
