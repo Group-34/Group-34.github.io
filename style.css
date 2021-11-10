@@ -178,6 +178,7 @@ footer li a:hover {
   border-style: solid;
   padding: 10px;
   text-align: center;
+  display: block;
 }
 #adtext {
   text-decoration: none;
