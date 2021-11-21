@@ -5,10 +5,12 @@
   overflow-x: hidden;
 }
 body {
-  background-color: #eae7dc;
+  
+  background-color: rgb(58, 57, 57);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main {
+  background-color: #eae7dc;
   margin-top: 75px;
 }
 #content {
