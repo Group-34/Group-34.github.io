@@ -14,12 +14,13 @@ main {
 #content {
   margin-left: 45px;
   margin-right: 45px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 #banner {
   text-align: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  background-image: linear-gradient(#a59b8d,#eae7dc);
+  padding-top: 60px;
+  padding-bottom: 60px;
   margin-bottom: 20px;
 }
 #banner img {
